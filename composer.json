@@ -1,0 +1,6 @@
+{
+    "require": {
+        "techarea/phuzzy": "^1.0",
+        "sastrawi/sastrawi": "^1.2"
+    }
+}
